@@ -13,7 +13,7 @@ const RulesBox = ({ showRules, setrules }) => {
                         <path d="M18.5 19.0327L5 5.53271" stroke="black" strokeWidth="1.2" stroke-linecap="round" stroke-linejoin="round" />
                     </svg>
                 </div>
-                <img src="/assets/images/image-rules-bonus.svg" alt="" />
+                <img src="./assets/images/image-rules-bonus.svg" alt="" />
             </div>
 
         </div>
